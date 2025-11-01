@@ -11,32 +11,32 @@ h1 {
 }
 
 .box {
-    background: #2f2f30ff;
+    background: #8be966b9;
     padding: 20px;
     display: inline-block;
     border-radius: 10px;
-    box-shadow: 0 0 10px #aac93a;
+    box-shadow: 0 0 10px #c9cf6e;
 }
 
 input {
     width: 220px;
     padding: 10px;
     margin: 6px 0;
-    border: 1px solid #aaa;
+    border: 1px solid #972222c2;
     border-radius: 6px;
 }
 
 button {
     padding: 10px 20px;
-    background: #4c5bff;
-    color: #fff;
+    background: #0c1fe9;
+    color: #18acc0;
     border: none;
     border-radius: 6px;
     cursor: pointer;
 }
 
 button:hover {
-    background: #e21919;
+    background: #2e3aff;
 }
 
 #response {
